@@ -1,3 +1,5 @@
+Projects and programming tasks completed on CMU CS Academy (graphics-based Python) in the 2021-2022 school year
+
 # Desktop CMU Graphics
 
 ## Install:
